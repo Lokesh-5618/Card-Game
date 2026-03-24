@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    gap: 50px;
+
+    grid-template: 50px 50px 50px 50px 50px/50px 50px 50px 50px 50px;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    background-color: #FFDE00;
+
+
+}
