@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-image: url('C:\Users\lokesh\Cardgame\src\assets\poks.jpg');
+  background-image: url('/poks.jpg');
   background-size: cover;
 
   font-synthesis: none;
